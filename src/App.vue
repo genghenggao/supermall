@@ -4,7 +4,7 @@
  * @Author: henggao
  * @Date: 2019-10-22 18:17:06
  * @LastEditors: henggao
- * @LastEditTime: 2019-10-22 21:00:04
+ * @LastEditTime: 2019-10-23 08:53:48
  -->
 <template>
   <div id="app">
@@ -14,8 +14,8 @@
 </template>
 
 <script>
-// import MainTabBar from 'components/content/mainTabbar/MainTabBar'
-import MainTabBar from './components/content/mainTabbar/MainTabBar'
+import MainTabBar from 'components/content/mainTabbar/MainTabBar'
+// import MainTabBar from './components/content/mainTabbar/MainTabBar'
 export default {
   name: "app",
   components: {
